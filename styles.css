@@ -1,0 +1,21 @@
+img {
+    width:150px;
+    border-radius:50px;
+    margin-left:250px;    
+}
+#yeo{
+    float:right;
+}
+body{
+    background:url("https://img00.deviantart.net/6bf3/i/2010/142/0/b/twilight__by_black_blue_contrast.jpg");
+    color:white;
+    font-family: 'Mali', cursive;
+    font-size: 20px;
+
+}
+#quality{
+    color:pink;
+}
+#content{
+    color:blue;
+}
